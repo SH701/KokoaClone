@@ -7,7 +7,7 @@
 
 ## 🔗 배포 링크
 
-👉 [프로젝트 바로가기](https://your-deployment-url.netlify.app)
+👉 [프로젝트 바로가기][(https://sh701.github.io/KokoaClone/)]
 
 ---
 
@@ -25,7 +25,7 @@
 
 - **HTML5**
 - **CSS3**
-  - Flexbox, Custom Variables, Responsive Design 등
+  - Flexbox, Custom Variables, Responsive Design
 
 ---
 ## 📌 느낀 점
